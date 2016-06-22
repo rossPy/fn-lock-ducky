@@ -189,7 +189,7 @@ $*l::
 	if GetKeyState("CapsLock", "T")
 		Send {Down}
 	else if GetKeyState("Shift","P")
-		Send {!}
+		Send {L}
 	else
 		Send l
 	return	
