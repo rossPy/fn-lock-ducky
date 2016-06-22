@@ -8,17 +8,11 @@ Features:
 Installation:
 
 1. Install Autohotkey v1.1.24.00 or later
-
 2. Double Click Config.ahk, a window will appear. 
-
 3. Choose the desired Mouse Key Acceleration in Combo Box. 
-
 4. If you change the configuration of keyboard using Ducky Advisor, you must also change Mouse Key Mode as follows:
 	-If you hold Fn+Alt+H for 3 sec and choose M and 1, you must select Mode 1 in Mouse Key Mode.
 	-If you hold Fn+Alt+H for 3 sec and choose M and 2, you must select Mode 2 in Mouse Key Mode.
-
 5. Press OK and a message box of confirmation that configuration is saved will appear.
-
 6. Run the fnlock.ahk
-
 7. (Optional)If you are using Windows 7, you can create a shortcut of fnlock.ahk to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup (assuming that windows is installed in C:) so that fnlock.ahk will be run at start-up.
