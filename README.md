@@ -1,5 +1,5 @@
 # fnlock-ducky-mini
-An autohotkey scripts I created to replace Caps Lock with Fn Lock in Ducky Mini(DKM1461SD). After reading the manual of Ducky mini, I was delighted to know that Caps Lock could be replaced by Fn. However, I was a bit disappointed to find out that you still need to hold it in order to shift to fn layer. I was expecting it to behave like Caps Lock, that is, it can toggle between standard layer and fn layer. So I created these scripts to remedy that.
+An autohotkey scripts I created to replace Caps Lock with Fn Lock in Ducky Mini(DKM1461SD). After reading the manual of Ducky mini, I was delighted to know that Caps Lock could be replaced by Fn. However, I was a bit disappointed to find out that you still need to hold Caps Lock in order to shift to fn layer. I was expecting it to behave like Caps Lock, that is, it can toggle between standard layer and fn layer. So I created these scripts to remedy that.
 
 Features:
 
